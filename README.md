@@ -59,9 +59,8 @@ git add .
 git commit -m "feat: Ajout des modèles User et Task"
 git push origin main
 
-
 git add README.md
-git commit -m "docs: Ajout du README détaillé avec structure du projet"
+git commit -m "Docs: Ajout du README détaillé avec structure du projet "
 git push origin main
 
 # Ajout des images au README
