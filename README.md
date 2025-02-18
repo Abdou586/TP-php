@@ -51,7 +51,6 @@ git clone https://github.com/Abdou586/TP-php.git
 git init
 git add .
 git commit -m "feat: Initial commit - Structure MVC de base"
-git remote add origin https://github.com/Abdou586/TP-php.git
 git branch -M main
 git push -u origin main
 
